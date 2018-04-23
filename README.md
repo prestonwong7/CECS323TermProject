@@ -12,16 +12,15 @@ Installing
 Make sure to have a SQL server with login and password
 
 
-
-Built With
+# Built With
 Java - Used for the User Inputs and searching
 
-Versioning
+# Versioning
 Any version should work up until 2017.
 
-Authors
+# Authors
 Preston Wong - Developer, Insertions, Java   
 Peter Kim - Developer - Creating SQL code
 
-Acknowledgments
+# Acknowledgments
 Used for Computer Engineering and Computer Science 323 - Databse
